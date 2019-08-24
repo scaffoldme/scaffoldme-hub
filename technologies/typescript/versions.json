@@ -1,0 +1,12 @@
+{
+  "name": "TypeScript",
+  "logo": "https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png",
+  "urlRep": "https://github.com/microsoft/TypeScript",
+  "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output",
+  "webSite": "https://www.typescriptlang.org/",
+  "versions": {
+    "3.5.0": {}
+  },
+  "environmentTypes": ["frontend", "api"],
+  "technologyTypes": ["typing"]
+}
