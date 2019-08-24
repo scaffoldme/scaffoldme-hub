@@ -2,6 +2,6 @@ version: 2.2.0
   angular: 8.0.0
     install:
       - npm i socket.io-client --save
-      - npm i @types/socket.io-client --save
+      - npm i @types/socket.io-client --save-dev
 
     init:
