@@ -1,0 +1,12 @@
+{
+  "name": "Socket.io",
+  "logo": "https://atomrace.com/blog/wp-content/uploads/2016/04/SOCKETIOICON.gif",
+  "urlRep": "https://github.com/socketio/socket.io-client",
+  "description": "Realtime application framework (client)",
+  "webSite": "http://socket.io",
+  "versions": {
+    "2.2.0": {}
+  },
+  "environmentTypes": ["frontend"],
+  "technologyTypes": ["module"]
+}
