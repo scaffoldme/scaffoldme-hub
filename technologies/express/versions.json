@@ -1,0 +1,16 @@
+{
+  "name": "Express",
+  "logo": "http://www.mindrops.com/images/expressJS.png",
+  "urlRep": "https://github.com/expressjs/express",
+  "description": "Fast, unopinionated, minimalist web framework for node.",
+  "webSite": "https://expressjs.com",
+  "versions": {
+    "4.17.0": {
+      "compatibleTypings": {
+        "TypeScript": ["3.5"]
+      }
+    }
+  },
+  "environmentTypes": ["api"],
+  "technologyTypes": ["framework"]
+}
