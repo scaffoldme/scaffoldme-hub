@@ -1,0 +1,24 @@
+{
+  "name": "Angular",
+  "logo": "https://angular.io/assets/images/logos/angular/angular.svg",
+  "urlRep": "https://github.com/angular/angular",
+  "description": "One framework. Mobile & desktop.",
+  "webSite": "https://angular.io",
+  "versions": {
+    "8.0.0": {
+      "compatibleTypings": {
+        "TypeScript": ["3.5"]
+      },
+      "compatibleStyles": {
+        "SCSS": ["4.2"],
+        "CSS": ["3.0"]
+      },
+      "compatibleModules": {
+        "Socket.io-client": ["2.2"],
+        "ngx-translate": ["11.0.1"]
+      }
+    }
+  },
+  "environmentTypes": ["frontend"],
+  "technologyTypes": ["framework"]
+}
