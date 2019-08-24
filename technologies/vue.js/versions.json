@@ -1,0 +1,23 @@
+{
+  "name": "Vue.js",
+  "logo": "https://vuejs.org/images/logo.png",
+  "urlRep": "https://github.com/vuejs/vue",
+  "description": "Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+  "webSite": "http://vuejs.org",
+  "versions": {
+    "2.6.0": {
+      "compatibleTypings": {
+        "TypeScript": ["3.5"]
+      },
+      "compatibleStyles": {
+        "SCSS": ["4.2"],
+        "CSS": ["3.0"]
+      },
+      "compatibleModules": {
+        "Socket.io-client": ["2.2"]
+      }
+    }
+  },
+  "environmentTypes": ["frontend"],
+  "technologyTypes": ["framework"]
+}
