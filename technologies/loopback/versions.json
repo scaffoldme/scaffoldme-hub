@@ -1,7 +1,7 @@
 {
   "name": "Loopback",
   "logo": "https://strongloop.com/blog-assets/2018/01/loopback-4-logo-sample.png",
-  "urlRep": "https://github.com/strongloop/loopback",
+  "urlRepository": "https://github.com/strongloop/loopback",
   "description": "LoopBack makes it easy to build modern applications that require complex integrations.",
   "webSite": "http://loopback.io",
   "versions": {

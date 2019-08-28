@@ -1,7 +1,7 @@
 {
   "name": "MongoDB",
   "logo": "https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/22/thumb_bigger_formation-mongodb.png",
-  "urlRep": "https://github.com/mongodb/mongo",
+  "urlRepository": "https://github.com/mongodb/mongo",
   "description": "The MongoDB Database",
   "webSite": "https://www.mongodb.com/",
   "versions": {

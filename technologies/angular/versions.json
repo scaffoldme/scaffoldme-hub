@@ -1,7 +1,7 @@
 {
   "name": "Angular",
   "logo": "https://angular.io/assets/images/logos/angular/angular.svg",
-  "urlRep": "https://github.com/angular/angular",
+  "urlRepository": "https://github.com/angular/angular",
   "description": "One framework. Mobile & desktop.",
   "webSite": "https://angular.io",
   "versions": {

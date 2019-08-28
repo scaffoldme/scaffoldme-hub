@@ -1,7 +1,7 @@
 {
   "name": "Express",
   "logo": "http://www.mindrops.com/images/expressJS.png",
-  "urlRep": "https://github.com/expressjs/express",
+  "urlRepository": "https://github.com/expressjs/express",
   "description": "Fast, unopinionated, minimalist web framework for node.",
   "webSite": "https://expressjs.com",
   "versions": {
