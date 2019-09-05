@@ -19,5 +19,6 @@
     }
   },
   "environmentTypes": ["frontend"],
-  "technologyTypes": ["library"]
+  "technologyTypes": ["library"],
+  "language": "typescript"
 }

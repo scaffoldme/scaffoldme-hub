@@ -15,5 +15,6 @@
     }
   },
   "environmentTypes": ["api"],
-  "technologyTypes": ["framework"]
+  "technologyTypes": ["framework"],
+  "language": "typescript"
 }

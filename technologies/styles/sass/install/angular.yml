@@ -1,0 +1,9 @@
+name: sass
+version: 1.22.10
+  angular: 8.0.0
+    install:
+      - ng config schematics.@schematics/angular:component.styleext sass
+      - touch src/styles.sass
+
+    init:
+      -

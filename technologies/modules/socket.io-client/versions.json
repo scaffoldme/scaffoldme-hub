@@ -8,5 +8,6 @@
     "2.2.0": {}
   },
   "environmentTypes": ["frontend"],
-  "technologyTypes": ["module"]
+  "technologyTypes": ["module"],
+  "language": "typescript"
 }
