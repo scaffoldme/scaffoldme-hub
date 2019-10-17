@@ -1,0 +1,13 @@
+{
+    "name": "@ngx-translate/core",
+    "logo": "https://avatars2.githubusercontent.com/u/24717852?s=88&v=4",
+    "urlRepository": "https://github.com/ngx-translate/core",
+    "description": "The internationalization (i18n) library for Angular",
+    "webSite": "http://www.ngx-translate.com",
+    "versions": {
+      "11.0.0": {}
+    },
+    "environmentTypes": ["frontend"],
+    "technologyTypes": ["module"]
+  }
+  

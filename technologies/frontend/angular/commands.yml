@@ -2,7 +2,3 @@ name: angular
 version: 8.0.0
   install:
     - npm install -g angular-cli
-
-  init:
-    - ng new ${app_name}
-  
