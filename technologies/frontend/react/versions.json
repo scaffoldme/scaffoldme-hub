@@ -6,8 +6,9 @@
   "webSite": "https://reactjs.org",
   "versions": {
     "16.0.0": {
-      "compatibleTypings": {
-        "TypeScript": ["3.5"]
+      "language": {
+        "name": "typescript",
+        "version": ["3.5"]
       },
       "compatibleStyles": {
         "SCSS": ["4.2"],
@@ -19,6 +20,5 @@
     }
   },
   "environmentTypes": ["frontend"],
-  "technologyTypes": ["library"],
-  "language": "typescript"
+  "technologyTypes": ["library"]
 }

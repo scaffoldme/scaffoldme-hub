@@ -8,6 +8,5 @@
     "2.2.0": {}
   },
   "environmentTypes": ["api"],
-  "technologyTypes": ["module"],
-  "language": ["javascript", "typescript"]
+  "technologyTypes": ["module"]
 }

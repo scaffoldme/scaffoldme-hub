@@ -6,8 +6,9 @@
   "webSite": "http://vuejs.org",
   "versions": {
     "2.6.0": {
-      "compatibleTypings": {
-        "TypeScript": ["3.5"]
+      "language": {
+        "name": "typescript",
+        "version": ["3.5"]
       },
       "compatibleStyles": {
         "SCSS": ["4.2"],
@@ -19,6 +20,5 @@
     }
   },
   "environmentTypes": ["frontend"],
-  "technologyTypes": ["framework"],
-  "language": "typescript"
+  "technologyTypes": ["framework"]
 }
