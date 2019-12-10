@@ -1,0 +1,17 @@
+{
+  "name": "Hapi",
+  "logo": "https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png",
+  "urlRepository": "https://github.com/hapijs/hapi",
+  "description": "Build powerful, scalable applications, with minimal overhead and full out-of-the-box functionality",
+  "webSite": "https://hapi.dev/",
+  "versions": {
+    "18.4.0": {
+      "compatibleTypings": {
+        "TypeScript": ["3.5"]
+      }
+    }
+  },
+  "environmentTypes": ["api"],
+  "technologyTypes": "framework",
+  "language": "typescript"
+}
