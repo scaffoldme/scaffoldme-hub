@@ -9,7 +9,7 @@
         "releaseDate": "2019-07-07 12:00:00",
         "compatibleLanguage": {
           "TypeScript": ["3.5"],
-					"JavaScript": ["8.0", "8.4"]
+					"JavaScript": ["8.0", "8.5"]
         },
 				"compatibleStyles": {
           "Less": ["2.6", "2.5"],
