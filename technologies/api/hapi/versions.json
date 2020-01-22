@@ -1,0 +1,32 @@
+{
+    "name": "Hapi",
+    "logo": "https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png",
+    "urlRepository": "https://github.com/hapijs/hapi",
+    "description": "Build powerful, scalable applications, with minimal overhead and full out-of-the-box functionality",
+    "webSite": "https://hapi.dev/",
+    "versions": {
+      "18.4.0": {
+        "releaseDate": "2019-07-07 12:00:00",
+        "compatibleLanguage": {
+          "TypeScript": ["3.5"],
+					"JavaScript": ["8.0", "8.5"]
+        },
+				"compatibleStyles": {
+          "Less": ["2.6", "2.5"],
+					"Sass": ["3.6"]
+        },
+        "compatibleModules": {
+          "Socket.io": ["2.2"]
+        }
+      },
+      "18.3.0": {
+        "releaseDate": "2018-10-17 12:00:00",
+        "compatibleLanguage": {
+          "TypeScript": ["3.5"]
+        }
+      }
+    },
+    "environmentTypes": ["api"],
+    "technologyTypes": "framework",
+    "language": "typescript"
+  }
